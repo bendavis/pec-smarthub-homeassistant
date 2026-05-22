@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" alt="PEC SmartHub Logo" width="160" height="160" />
+</p>
+
 # PEC SmartHub Integration for Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
