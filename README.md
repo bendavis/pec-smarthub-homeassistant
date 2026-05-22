@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="PEC SmartHub Logo" width="160" height="160" />
+  <img src="https://raw.githubusercontent.com/bendavis/pec-smarthub-homeassistant/main/logo.svg" alt="PEC SmartHub Logo" width="160" height="160" />
 </p>
 
 # PEC SmartHub Integration for Home Assistant
