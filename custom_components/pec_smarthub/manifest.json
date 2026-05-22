@@ -1,0 +1,11 @@
+{
+  "domain": "pec_smarthub",
+  "name": "PEC SmartHub",
+  "codeowners": ["@benjamindavis"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/benjamindavis/pec_smarthub_homeassistant",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "PEC SmartHub",
+  "content_in_root": false,
+  "zip_release": false,
+  "render_readme": true,
+  "filename": "pec_smarthub",
+  "domains": ["pec_smarthub"],
+  "homeassistant": "2024.1.0"
+}
