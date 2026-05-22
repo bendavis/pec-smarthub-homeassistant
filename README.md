@@ -131,7 +131,7 @@ yaxis:
 
 1. Open **HACS** in your Home Assistant panel.
 2. Click the three dots in the top-right corner and select **Custom repositories**.
-3. Enter the URL of this repository: `https://github.com/YOUR_GITHUB_USERNAME/pec-smarthub-homeassistant` and select **Integration** as the category.
+3. Enter the URL of this repository: `https://github.com/bendavis/pec-smarthub-homeassistant` and select **Integration** as the category.
 4. Click **Add**. The integration will appear in your HACS list.
 5. Click **Download**, then restart Home Assistant.
 

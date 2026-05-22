@@ -4,7 +4,7 @@
   "codeowners": ["@benjamindavis"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/benjamindavis/pec_smarthub_homeassistant",
+  "documentation": "https://github.com/bendavis/pec-smarthub-homeassistant",
   "iot_class": "cloud_polling",
   "requirements": [],
   "version": "1.0.0"
